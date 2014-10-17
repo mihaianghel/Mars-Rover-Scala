@@ -1,0 +1,12 @@
+/RUNNING_PID
+/logs/
+.settings/
+bin/
+project/
+target/
+.cache
+.classpath
+.project
+.DS_Store
+activator*.*
+LICENSE
