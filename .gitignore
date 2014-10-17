@@ -1,0 +1,12 @@
+# sbt specific
+project/project/
+project/target/
+target/
+.DS_Store
+
+# IDE specific
+.settings/
+bin/
+.cache
+.classpath
+.project
