@@ -1,10 +1,9 @@
-package util
+package rover.util
 
 import org.scalatest.FunSuite
 import org.junit.runner.RunWith
 import org.scalatest.junit.JUnitRunner
 import rover.util.Validator._
-import rover.util.Coordinates
 
 /**
  * Test for rover.util.Validator
