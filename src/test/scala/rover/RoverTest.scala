@@ -61,5 +61,4 @@ class RoverTest extends FunSuite {
     }
     assert(thrown.getMessage === "Unknown command!")
   }
-
 }
